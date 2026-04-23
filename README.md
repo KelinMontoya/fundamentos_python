@@ -1,3 +1,4 @@
+
 # Fundamentos de Python
 
 ## Descripción
